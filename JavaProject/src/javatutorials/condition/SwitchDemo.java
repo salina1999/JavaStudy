@@ -30,7 +30,7 @@ public class SwitchDemo {
 			System.out.println("3");
 		}
 		
-		System.out.println("switch(2)");
+		System.out.println("switch(2)"); 
 		switch(2) {
 		case 1:
 			System.out.println(1);
